@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">The Guardian</string>
+    <string name="empty_state">No News Stories Found!</string>
+    <string name="no_internet">No Internet Connection!</string>
+    <string name="author_name_text_view_label">Author name</string>
+    <string name="date_text_view_label">Date</string>
+    <string name="title_text_view_label">Title</string>
+    <string name="section_text_view_label">Section</string>
+
+    <!-- Section Preference -->
+    <string name="settings_section_label">Section</string>
+    <string name="settings_section_key" translatable="false">section</string>
+    <string name="settings_section_default" translatable="false">@string/settings_section_technology_value</string>
+
+    <string name="settings_section_technology_label">Technology</string>
+    <string name="settings_section_technology_value" translatable="false">technology</string>
+
+    <string name="settings_section_fashion_label">Fashion</string>
+    <string name="settings_section_fashion_value" translatable="false">fashion</string>
+
+    <string name="settings_section_food_label">Food</string>
+    <string name="settings_section_food_value" translatable="false">food</string>
+
+    <string name="settings_section_sport_label">Sport</string>
+    <string name="settings_section_sport_value" translatable="false">sport</string>
+
+    <!-- Order-By Preference -->
+    <string name="settings_order_by_label">Order By</string>
+    <string name="settings_order_by_key" translatable="false">order by</string>
+    <string name="settings_order_by_default" translatable="false">@string/settings_order_by_newest_value</string>
+
+    <string name="settings_order_by_newest_label">Newest</string>
+    <string name="settings_order_by_newest_value" translatable="false">newest</string>
+
+    <string name="settings_order_by_oldest_label">Oldest</string>
+    <string name="settings_order_by_oldest_value" translatable="false">oldest</string>
+
+    <string name="settings_order_by_relevance_label">Relevance</string>
+    <string name="settings_order_by_relevance_value" translatable="false">relevance</string>
+    <string name="menu_item_settings">Settings</string>
+
+</resources>
